@@ -11,4 +11,4 @@ def summary(src_a, src_b, src_c):
     print(src_x)
 
 
-summary(src_a, src_b, src_c)
+summary(src_a, src_b, src_c)  #execute
